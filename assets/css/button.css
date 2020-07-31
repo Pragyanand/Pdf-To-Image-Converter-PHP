@@ -1,0 +1,108 @@
+input[type="file"]{
+	display:none;
+}
+
+
+label-style{
+	
+	color : white;
+	height : 60px;
+	width : 250px;
+	background-color:#f5a509;
+	position:absolute;
+	margin:auto;
+	top:-110px;
+	bottom:0;
+	left:0;
+	right:0;
+	font-size:20px
+	display:flex;
+    justify-content: center;
+		
+}
+
+.align-label{
+	
+	height: 60px;
+	width : 250px;
+	
+	display: table-cell;
+    vertical-align: middle;
+	border:1px solid #18d26e;
+	color:white;
+	font-weight: bold;
+	position:absolute;
+	margin:auto;
+	top:-100px;
+	bottom:0;
+	left:0;
+	right:0;
+	font-size:35px
+	
+	
+	
+	
+}
+
+
+.convert-label{
+	
+	height: 60px;
+	width : 350px;
+	
+	display: table-cell;
+    vertical-align: middle;
+	border:1px solid #18d26e;
+	color:white;
+	font-weight: bold;
+	position:absolute;
+	margin:auto;
+	top:500px;
+	bottom:0;
+	left:0;
+	right:0;
+	font-size:35px
+	
+}
+
+.encrypt-label{
+	
+	height: 60px;
+	width : 170px;
+	
+	display: table-cell;
+    vertical-align: middle;
+	border:1px solid #18d26e;
+	color:white;
+	font-weight: bold;
+	position:absolute;
+	margin:auto;
+	top:350px;
+	bottom:0;
+	left:-175px;
+	right:0;
+	font-size:35px
+	
+}
+
+
+.passwordField{
+color: #000000;
+font-family:montserrat;
+font-size:5px;
+font-weight:lighter; 
+font-size: 20px; 
+position:absolute;
+border: 2px solid #18d26e; 
+background-color: white;
+width:160px;
+margin:auto;
+top:350px;
+bottom:0;
+left:180px;
+right:0;
+
+	
+	
+}
+
